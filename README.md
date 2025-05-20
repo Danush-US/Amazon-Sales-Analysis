@@ -1,10 +1,10 @@
 #  Amazon Analytics Dashboard – Power BI Project
 
-![Project Banner](https://github.com/yourusername/your-repo/assets/banner-placeholder.png)
 
 ##  Problem Statement
 
-A thriving e-commerce business selling products on Amazon and offering Amazon Prime services seeks to enhance its sales intelligence and customer understanding. The goal is to implement a business intelligence solution using Power BI to create interactive dashboards that consolidate and visualize key metrics for product performance and Prime content engagement.
+![](https://github.com/Danush-US/Amazon-Sales-Analysis/blob/main/Problem%20Statement%2001.png)
+![](https://github.com/Danush-US/Amazon-Sales-Analysis/blob/main/Problem%20Statement%2002.png)
 
 ##  Project Objective
 
@@ -50,7 +50,7 @@ These dashboards empower stakeholders to monitor real-time performance, identify
 - Product Category Heatmap
 - Top 5 Products by Sales & Reviews
 
-![Sales Dashboard Screenshot](https://github.com/yourusername/your-repo/assets/sales-dashboard.png)
+![](https://github.com/Danush-US/Amazon-Sales-Analysis/blob/main/amazon%20Sales.png)
 
 ---
 
@@ -66,19 +66,8 @@ These dashboards empower stakeholders to monitor real-time performance, identify
 - Sales by Genre/Type
 - Top Movies by Sales & Reviews
 
-![Prime Dashboard Screenshot](https://github.com/yourusername/your-repo/assets/prime-dashboard.png)
+![](https://github.com/Danush-US/Amazon-Sales-Analysis/blob/main/Amazon%20prime.png)
 
----
-
-#  3 Sales Overview Dashboard (Advanced)
-
-**Features:**
-- YoY KPIs by Region
-- Metric Switcher (Sales/Profit/Quantity)
-- State-wise Bubble Maps
-- Monthly Sparklines
-
-![Sales Overview Screenshot](https://github.com/yourusername/your-repo/assets/overview-dashboard.png)
 
 ---
 
