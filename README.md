@@ -1,4 +1,4 @@
-#  Amazon Analytics Dashboard – Power BI Project
+#  Amazon Product and Prime Analytics Dashboard – Power BI Project
 
 
 ##  Problem Statement
